@@ -12,26 +12,26 @@
 // Create datatypes.js file and use the JavaScript typeof operator to check different data types. Check the data type of each variable
 
 // Declare four variables without assigning values
-let firstName
-let lastName
-let country 
-let city 
+let middleName
+let fathersNAme
+let Africa
+let world
 
 // Declare four variables with assigned values
-let firstName = 'Ibrahim' 
-let lastName = 'Tijani' 
-let country = 'Nigeria'
-let city = 'Isolo' 
+let fName2 = 'Ibrahim';
+lastName = 'Tijani';
+let continent = 'Nigeria';
+city = 'Isolo';
 
 // Declare variables to store your first name, last name, marital status, country and age in multiple lines
-let firstName = `Ibrahim`
-Cons lastName = "Tijani"
-let maritalStatus = False
-let country = 'Nigeria'
-let age = 20
+let fName = "Ibrahim";
+lastName = "Tijani";
+let maritalStatus = False;
+country = 'Nigeria';
+let age = 20;
 
 // Declare variables to store your first name, last name, marital status, country and age in a single line
-let firstName = 'Ibrahim' , lastName = 'Tijani' , maritalStatus = 'false' , country = 'Nigeria' , age = 20
+let fName1 = 'Ibrahim' , lastName = 'Tijani' , maritalStatus = 'false' , country = 'Nigeria' , age = 20
 
 // Declare two variables myAge and yourAge and assign them initial values and log to the browser console.
 
